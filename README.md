@@ -2,7 +2,7 @@
 
 A practice-first design & sketching app. Every lesson ends on a live whiteboard — read the technique, then place the shapes, colors, or linework yourself, and get feedback in seconds.
 
-**Live app:** _(https://gorgeous-shortbread-eea2bb.netlify.app/)_
+**Live app:** _(https://sketchline.netlify.app/)_
 
 ---
 
